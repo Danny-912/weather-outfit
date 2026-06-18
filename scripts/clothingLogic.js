@@ -1,6 +1,5 @@
 // scripts/clothingLogic.js
 // Determines clothing suggestions based on weather
-
 export function getClothingSuggestion(temp, condition) {
     // Rainy condition check
     const rainConditions = ["Rain", "Drizzle", "Thunderstorm"];
