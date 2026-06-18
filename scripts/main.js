@@ -1,6 +1,5 @@
 // scripts/main.js
 // Entry point: sets up event listeners and handles user interactions
-
 import { fetchWeather } from "./weatherApi.js";
 import { getClothingSuggestion } from "./clothingLogic.js";
 import { displayWeather, displayClothingSuggestion, updateBackground, displayRecentSearches } from "./ui.js";
