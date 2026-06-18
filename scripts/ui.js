@@ -1,5 +1,4 @@
 // Handles DOM updates and background changes
-
 export function displayWeather(data) {
     const weatherDiv = document.getElementById("weatherResult");
     const city = data.name;
