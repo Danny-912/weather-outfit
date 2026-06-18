@@ -1,6 +1,5 @@
 // scripts/weatherApi.js
 // Handles fetching weather data from OpenWeatherMap API
-
 const API_KEY = "890f33d9eb0394c34e17a707e206113c";
 
 export async function fetchWeather(city) {
